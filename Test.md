@@ -2,7 +2,6 @@
 This is a test file that I am putting here, just for test.
 
 ---
-
 1. First Line Item
 2. Second
 3. Third
