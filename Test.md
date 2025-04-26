@@ -24,7 +24,6 @@ Use the `printf()` function.
 Test Table
 
 > Test
->
 > > New Test
 > > > New tested $f(x)$ test
 
@@ -36,7 +35,6 @@ Test Table
 $$
 \\left( \\sum_{k=1}^n a_k b_k \\right)^2 \\leq \\left( \\sum_{k=1}^n a_k^2 \\right) \\left( \\sum_{k=1}^n b_k^2 \\right)
 $$
-
 # Section Heading
 
 Some body text of this section.
@@ -47,10 +45,6 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 (… more content…)
 
 [A link to that custom anchor](#my-custom-anchor-point)
-
-| Head 01 | Head 02 | Head 03 |
--------------------------------
-| one line | sec line | third line |
 
 - [ ] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
@@ -71,30 +65,4 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
 
